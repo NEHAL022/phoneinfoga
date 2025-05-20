@@ -1,5 +1,5 @@
 ### Running a scan
-
++39 339 8857680
 Use the `scan` command with the `-n` (or `--number`) option.
 
 ```
